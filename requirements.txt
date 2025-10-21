@@ -1,0 +1,7 @@
+langchain-openai
+langchain
+jupyter
+notebook
+ipykernel
+python-dotenv
+olca-schema
